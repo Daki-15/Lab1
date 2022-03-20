@@ -1,4 +1,4 @@
 Danas cemo vezbati git
 Sldedeca linija u .txt fajlu
 
-Test sledeca linija
+Linija koja se promenila
