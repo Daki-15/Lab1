@@ -2,3 +2,4 @@ Danas cemo vezbati git
 Sldedeca linija u .txt fajlu
 
 Ova linija je bila prmenjena
+Git push
