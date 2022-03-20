@@ -1,1 +1,2 @@
 Danas cemo vezbati git
+Sldedeca linija u .txt fajlu
